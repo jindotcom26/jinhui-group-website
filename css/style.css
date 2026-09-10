@@ -527,7 +527,6 @@ nav {
   box-shadow: var(--shadow-lg);
 }
 .product-visual .bottle { font-size: 4rem; margin-bottom: 1rem; filter: drop-shadow(0 12px 18px rgba(0,0,0,0.35)); }
-.product-visual .product-photo { width: 100%; border-radius: var(--radius); display: block; margin-bottom: 1.6rem; box-shadow: 0 10px 32px rgba(0,0,0,0.35); }
 .product-visual h3 { font-family: var(--font-serif); font-size: 1.9rem; letter-spacing: 0.15em; color: var(--white); }
 .product-visual .sub { color: #9fd8cc; font-size: 0.8rem; letter-spacing: 0.2em; margin-bottom: 1.5rem; text-transform: uppercase; }
 .ph-cards { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.9rem; margin-top: 1.6rem; }
